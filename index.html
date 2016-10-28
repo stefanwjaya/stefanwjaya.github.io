@@ -1,0 +1,19 @@
+---
+layout: default
+title: Stefan's blog
+---
+
+<div id="main">
+  <p> Made using Jekyll because Wordpress is so last decade</p>
+
+  <div class="wrapper">
+    <h2>Posts</h2>
+    <ul>
+      {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
