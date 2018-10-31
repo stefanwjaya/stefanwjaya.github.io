@@ -4,7 +4,6 @@ title:  "First Post with Jekyll"
 date:   2016-10-27 13:37:36 +0700
 categories: thoughts
 ---
-> *Because wordpress sites are so last decade.*
+> *Static sites.*
 
-I am pretty unsure why I even bothered to check this stuff out. I was planning to build a simple github pages which contains my to-be projects.
-But this seems fun. And I'm bored.
+I'm quite shocked to see that static sites are actually still valid to be used. I mean, yes. It's quite logical. It's not like I have like 10 people to update my blog. Static site looks reaaaaaally good.
